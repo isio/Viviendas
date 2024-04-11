@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/backEnd.iml" filepath="$PROJECT_DIR$/.idea/backEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicios-fraccionamiento/microservicios-fraccionamiento.iml" filepath="$PROJECT_DIR$/microservicios-fraccionamiento/microservicios-fraccionamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservicios-gateway/microservicios-gateway.iml" filepath="$PROJECT_DIR$/microservicios-gateway/microservicios-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-eureka/ms-eureka.iml" filepath="$PROJECT_DIR$/ms-eureka/ms-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-fraccionamientos/ms-fraccionamientos.iml" filepath="$PROJECT_DIR$/ms-fraccionamientos/ms-fraccionamientos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-gateway/ms-gateway.iml" filepath="$PROJECT_DIR$/ms-gateway/ms-gateway.iml" />
+    </modules>
+  </component>
+</project>
